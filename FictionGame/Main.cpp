@@ -19,7 +19,7 @@ int main() {		//start main function
 }
 
 void intro() {		//start intro helper function
-	int path;
+	int path; 
 	cout << "\n--The Path--" << endl;	//console out title
 	cout << "\n-----------------------------------------------------------" << endl;		//spacer bar
 	cout << "\n\n" << endl;		//new lines
